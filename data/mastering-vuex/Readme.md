@@ -1,9 +1,0 @@
-# Mastering Vuex
-[View on VueMastery.com](https://vuemastery.com/courses/mastering-vuex)
-* [Lesson 01](https://player.vimeo.com/video/297516469?autoplay=1&app_id=122963)
-* [Lesson 02](https://player.vimeo.com/video/299290718?autoplay=1&app_id=122963)
-* [Lesson 03](https://player.vimeo.com/video/296998483?autoplay=1&app_id=122963)
-* [Lesson 04](https://player.vimeo.com/video/297183312?autoplay=1&app_id=122963)
-* [Lesson 05](https://player.vimeo.com/video/297215375?autoplay=1&app_id=122963)
-* [Lesson 06](https://player.vimeo.com/video/294957628?autoplay=1&app_id=122963)
-* [Lesson 07](https://player.vimeo.com/video/296095457?autoplay=1&app_id=122963)
