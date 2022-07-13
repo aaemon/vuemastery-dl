@@ -8,7 +8,7 @@ try {
     data.forEach(function (v) {
         if (v.length > 10) {
             let id = v.trim();
-            id = id.replace('https://player.vimeo.com/video/', '').replace('?', '').replace('autoplay=1', '').replace(/[&?]/gm, '').replace(/app_id=(.*)/gm, '').replace('&', 'and');
+            id = id.replace('https://player.vimeo.com/video/', '').replace('?', '').replace('autoplay=1', '').replace(/[&?]/gm, '').replace(/app_id=(.*)/gm, '').replace('&', 'amp');
             // Default APP ID is 122963
             startDownloadByID(id, 1080, 122963);
         }
