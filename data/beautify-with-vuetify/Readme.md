@@ -1,0 +1,11 @@
+# Beautify With Vuetify
+[View on VueMastery.com](https://vuemastery.com/courses/beautify-with-vuetify)
+* [Lesson 01](https://player.vimeo.com/video/346032810?autoplay=1&app_id=122963)
+* [Lesson 02](https://player.vimeo.com/video/350501837?autoplay=1&app_id=122963)
+* [Lesson 03](https://player.vimeo.com/video/353308521?autoplay=1&app_id=122963)
+* [Lesson 04](https://player.vimeo.com/video/357089986?autoplay=1&app_id=122963)
+* [Lesson 05](https://player.vimeo.com/video/359661975?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/362841967?autoplay=1&app_id=122963)
+* [Lesson 07](https://player.vimeo.com/video/368669029?autoplay=1&app_id=122963)
+* [Lesson 08](https://player.vimeo.com/video/378430249?autoplay=1&app_id=122963)
+* [Lesson 09](https://player.vimeo.com/video/380861996?autoplay=1&app_id=122963)
