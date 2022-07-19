@@ -48,7 +48,3 @@ the subtitle file will contain the subtitle like.
 
 # PR
 Please put new video links to the data folder to help others, If you still have access to the videos
-
-<!-- ## Videos not yet completely added: -->
-
-<!-- * [Lesson 10 and 11 of **Touring Vue Router**](https://www.vuemastery.com/courses/touring-vue-router/) -->

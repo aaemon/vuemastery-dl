@@ -40,7 +40,7 @@ for directory in $DIRECTORIES; do
         node ../../mirror.js
     fi
 
-    echo -e "Download for course done!\n"
+    echo -e "$name course downloaded!\n"
 done
 
 echo "Done!"
