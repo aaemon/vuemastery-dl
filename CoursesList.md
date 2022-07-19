@@ -102,3 +102,40 @@
 * [View on VueMastery.com](https://vuemastery.com/courses/beautify-with-vuetify)
 * [Readme](./data/beautify-with-vuetify/Readme.md)
 
+# Coding Better Composables
+* [View on VueMastery.com](https://www.vuemastery.com/courses/coding-better-composables/)
+* [Readme](./data/coding-better-composables/Readme.md)
+
+# From Vuex to Pinia
+* [View on VueMastery.com](https://www.vuemastery.com/courses/from-vuex-to-pinia/)
+* [Readme](./data/from-vuex-to-pinia/Readme.md)
+
+# Lightning Fast Builds w/ Vite
+* [View on VueMastery.com](https://www.vuemastery.com/courses/lightning-fast-builds-with-vite/)
+* [Readme](./data/lightning-fast-builds-with-vite/Readme.md)
+
+# Nuxt 3 Essentials
+* [View on VueMastery.com](https://www.vuemastery.com/courses/nuxt-3-essentials/)
+* [Readme](./data/nuxt-3-essentials/Readme.md)
+
+# Pinia Q&A
+* [View on VueMastery.com](https://www.vuemastery.com/courses/pinia-qa/)
+* [Readme](./data/pinia-qa/Readme.md)
+
+# Progressive Web Apps w/ Vue 3
+* [View on VueMastery.com](https://www.vuemastery.com/courses/progressive-web-apps-vue-3/)
+* [Readme](./data/progressive-web-apps-vue-3/Readme.md)
+
+# Querying with GraphQL
+* [View on VueMastery.com](https://www.vuemastery.com/courses/querying-with-graphql/)
+* [Readme](./data/querying-with-graphql/Readme.md)
+
+# TypeScript Friendly Vue 3
+* [View on VueMastery.com](https://www.vuemastery.com/courses/typescript-friendly-vue3/)
+* [Readme](./data/typescript-friendly-vue3/Readme.md)
+
+# Validating Vue 3 Forms
+* [View on VueMastery.com](https://www.vuemastery.com/courses/validating-vue3-forms/)
+* [Readme](./data/validating-vue3-forms/Readme.md)
+
+
