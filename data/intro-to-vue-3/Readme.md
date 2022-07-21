@@ -1,0 +1,13 @@
+# Intro To Vue 3
+[View on VueMastery.com](https://vuemastery.com/courses/intro-to-vue-3)
+* [Lesson 01](https://player.vimeo.com/video/429439600?autoplay=1&app_id=122963)
+* [Lesson 02](https://player.vimeo.com/video/430513164?autoplay=1&app_id=122963)
+* [Lesson 03](https://player.vimeo.com/video/430892048?autoplay=1&app_id=122963)
+* [Lesson 04](https://player.vimeo.com/video/432257268?autoplay=1&app_id=122963)
+* [Lesson 05](https://player.vimeo.com/video/436245555?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/436573740?autoplay=1&app_id=122963)
+* [Lesson 07](https://player.vimeo.com/video/437484985?autoplay=1&app_id=122963)
+* [Lesson 08](https://player.vimeo.com/video/440157813?autoplay=1&app_id=122963)
+* [Lesson 09](https://player.vimeo.com/video/440514041?autoplay=1&app_id=122963)
+* [Lesson 10](https://player.vimeo.com/video/441165140?autoplay=1&app_id=122963)
+* [Lesson 11](# lesson 11 missing)

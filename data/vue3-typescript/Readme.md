@@ -1,0 +1,12 @@
+# Vue3 Typescript
+[View on VueMastery.com](https://vuemastery.com/courses/vue3-typescript)
+* [Lesson 01](https://player.vimeo.com/video/467481375?autoplay=1&app_id=122963)
+* [Lesson 02](https://player.vimeo.com/video/473662632?autoplay=1&app_id=122963)
+* [Lesson 03](https://player.vimeo.com/video/473998588?autoplay=1&app_id=122963)
+* [Lesson 04](https://player.vimeo.com/video/486226307?autoplay=1&app_id=122963)
+* [Lesson 05](https://player.vimeo.com/video/492858617?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/501230219?autoplay=1&app_id=122963)
+* [Lesson 07](https://player.vimeo.com/video/505794251?autoplay=1&app_id=122963)
+* [Lesson 08](https://player.vimeo.com/video/510916818?autoplay=1&app_id=122963)
+* [Lesson 09](https://player.vimeo.com/video/516377523?autoplay=1&app_id=122963)
+* [Lesson 10](https://player.vimeo.com/video/519596515?autoplay=1&app_id=122963)

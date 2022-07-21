@@ -1,0 +1,11 @@
+# Component Design Patterns
+[View on VueMastery.com](https://vuemastery.com/courses/component-design-Patterns)
+* [Lesson 01](https://player.vimeo.com/video/394725602?autoplay=1&app_id=122963)
+* [Lesson 02](https://player.vimeo.com/video/394498766?autoplay=1&app_id=122963)
+* [Lesson 03](https://player.vimeo.com/video/399734836?autoplay=1&app_id=122963)
+* [Lesson 04](https://player.vimeo.com/video/409867593?autoplay=1&app_id=122963)
+* [Lesson 05](https://player.vimeo.com/video/424213580?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/431605455?autoplay=1&app_id=122963)
+* [Lesson 07](https://player.vimeo.com/video/437260447?autoplay=1&app_id=122963)
+* [Lesson 08](https://player.vimeo.com/video/441489357?autoplay=1&app_id=122963)
+* [Lesson 09](https://player.vimeo.com/video/448610522?autoplay=1&app_id=122963)

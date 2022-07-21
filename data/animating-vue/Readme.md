@@ -1,0 +1,11 @@
+# Animating Vue
+[View on VueMastery.com](https://vuemastery.com/courses/animating-vue)
+* [Lesson 01](https://player.vimeo.com/video/351308397?autoplay=1&app_id=122963)
+* [Lesson 02](https://player.vimeo.com/video/353909159?autoplay=1&app_id=122963)
+* [Lesson 03](https://player.vimeo.com/video/358710484?autoplay=1&app_id=122963)
+* [Lesson 04](https://player.vimeo.com/video/361550074?autoplay=1&app_id=122963)
+* [Lesson 05](https://player.vimeo.com/video/367390374?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/372000380?autoplay=1&app_id=122963)
+* [Lesson 07](https://player.vimeo.com/video/375052563?autoplay=1&app_id=122963)
+* [Lesson 08](https://player.vimeo.com/video/379804181?autoplay=1&app_id=122963)
+* [Lesson 09](https://player.vimeo.com/video/380155578?autoplay=1&app_id=122963)
