@@ -1,3 +1,10 @@
 # From Vuex To Pinia
 [View on VueMastery.com](https://vuemastery.com/courses/from-vuex-to-pinia)
-* [Lesson 01](# missing)
+* [Lesson 01](https://player.vimeo.com/video/678386029?autoplay=1&app_id=122963)
+* [Lesson 02](https://player.vimeo.com/video/689880373?autoplay=1&app_id=122963)
+* [Lesson 03](https://player.vimeo.com/video/693188055?autoplay=1&app_id=122963)
+* [Lesson 04](https://player.vimeo.com/video/697055315?autoplay=1&app_id=122963)
+* [Lesson 05](https://player.vimeo.com/video/699827692?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/702130623?autoplay=1&app_id=122963)
+* [Lesson 07](https://player.vimeo.com/video/702240286?autoplay=1&app_id=122963)
+* [Lesson 08](https://player.vimeo.com/video/703019108?autoplay=1&app_id=122963)

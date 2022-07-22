@@ -10,4 +10,4 @@
 * [Lesson 08](https://player.vimeo.com/video/440157813?autoplay=1&app_id=122963)
 * [Lesson 09](https://player.vimeo.com/video/440514041?autoplay=1&app_id=122963)
 * [Lesson 10](https://player.vimeo.com/video/441165140?autoplay=1&app_id=122963)
-* [Lesson 11](# lesson 11 missing)
+* [Lesson 11](https://player.vimeo.com/video/442485891?autoplay=1&app_id=122963)

@@ -9,5 +9,3 @@
 * [Lesson 07](https://player.vimeo.com/video/503618233?autoplay=1&app_id=122963)
 * [Lesson 08](https://player.vimeo.com/video/510430996?autoplay=1&app_id=122963)
 * [Lesson 09](https://player.vimeo.com/video/522434741?autoplay=1&app_id=122963)
-* [Lesson 10]()
-* [Lesson 11](# could not find this course anymore in vuemastry website)
