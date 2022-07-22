@@ -7,5 +7,3 @@ https://player.vimeo.com/video/498189741?autoplay=1&app_id=122963
 https://player.vimeo.com/video/503618233?autoplay=1&app_id=122963
 https://player.vimeo.com/video/510430996?autoplay=1&app_id=122963
 https://player.vimeo.com/video/522434741?autoplay=1&app_id=122963
-
-# could not find this course anymore in vuemastry website
