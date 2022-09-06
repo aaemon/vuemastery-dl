@@ -42,6 +42,10 @@
 * [View on VueMastery.com](https://vuemastery.com/courses/scaling-vue-with-nuxt-js)
 * [Readme](./data/scaling-vue-with-nuxt-js/Readme.md)
 
+# Pinia Fundamentals
+* [View on VueMastery.com](https://vuemastery.com/courses/pinia-fundamentals)
+* [Readme](./data/pinia-fundamentals/Readme.md)
+
 # Build A Blog Nuxt3 Content
 * [View on VueMastery.com](https://vuemastery.com/courses/build-a-blog-nuxt3-content)
 * [Readme](./data/build-a-blog-nuxt3-content/Readme.md)
@@ -57,6 +61,10 @@
 # Mastering Vuex
 * [View on VueMastery.com](https://vuemastery.com/courses/mastering-vuex)
 * [Readme](./data/mastering-vuex/Readme.md)
+
+# Utility First Css With Tailwind
+* [View on VueMastery.com](https://vuemastery.com/courses/utility-first-css-with-tailwind)
+* [Readme](./data/utility-first-css-with-tailwind/Readme.md)
 
 # Vue3 Forms
 * [View on VueMastery.com](https://vuemastery.com/courses/vue3-forms)
